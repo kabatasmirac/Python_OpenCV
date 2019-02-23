@@ -1,2 +1,3 @@
 # Python_OpenCV
-Bitirme Projesi Çalışmaları
+
+Görüntü işleme üzerine kullanılan bazı temel kod betikleri
